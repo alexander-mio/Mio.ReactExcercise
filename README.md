@@ -16,13 +16,13 @@ Här är ett exempel på hur en lösning skulle kunna se ut: https://genuine-fen
 Klona projektet
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/alexander-mio/Mio.ReactExercise.git
 ```
 
 Navigera till projektmappen
 
 ```bash
-  cd my-project
+  cd Mio.ReactExercise
 ```
 
 Installera dependencies
